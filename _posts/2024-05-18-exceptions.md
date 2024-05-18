@@ -5,7 +5,7 @@ categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [exceptions, programmer] # TAG names should always be lowercase
 ---
 
-# Exceptions, não tratar mas sim evitar
+![Desktop View](/assets/img/exception.png){: .normal }
 
 Desde quando começamos a engatinhar no mundo da programação, ou até mesmo em nossa jornada acadêmica, elas sempre estiveram ali,
 principalmente quando recebiamos um StackOverflowException devido a um loop infinito ou uma recursão infinita rsrs.

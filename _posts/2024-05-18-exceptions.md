@@ -1,12 +1,12 @@
 ---
 title: Exceptions, tratar ou evitar ?
-date: 2023-11-13 11:00:00
+date: 2024-05-18 11:00:00
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [exceptions, programmer] # TAG names should always be lowercase
-image: /assets/img/exception.png
+image:
+  path: /assets/img/exception.png
+  alt: try catch image
 ---
-
-![Desktop View](/assets/img/exception.png){: .normal }
 
 Desde quando começamos a engatinhar no mundo da programação, ou até mesmo em nossa jornada acadêmica, elas sempre estiveram ali,
 principalmente quando recebiamos um StackOverflowException devido a um loop infinito ou uma recursão infinita rsrs.

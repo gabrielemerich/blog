@@ -3,6 +3,7 @@ title: Exceptions, tratar ou evitar ?
 date: 2023-11-13 11:00:00
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [exceptions, programmer] # TAG names should always be lowercase
+image: /assets/img/exception.png
 ---
 
 ![Desktop View](/assets/img/exception.png){: .normal }
@@ -47,3 +48,9 @@ if (!numbers.IsReadOnly)
     numbers.Add(1);
 }
 ```
+
+Contudo, percebemos que é possível manter um bom design de estrutura e desempenho, no que se refere ao tratamento de exceções, desde que saibamos usa-las com eficiência, principalmente quando são executadas inúmeras vezes.
+
+Aprofunde-se um pouco mais:
+
+https://learn.microsoft.com/pt-br/dotnet/standard/design-guidelines/exceptions-and-performance

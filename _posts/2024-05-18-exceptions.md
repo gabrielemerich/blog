@@ -1,8 +1,11 @@
 ---
 title: Exceptions, tratar ou evitar ?
 date: 2024-05-18 11:00:00
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [exceptions, programmer] # TAG names should always be lowercase
+categories: [TECHNOLOGY, PROGRAMMER, EXCEPTION_HANDLER]
+tags: [exceptions, programmer]
+pin: true
+math: true
+mermaid: true
 image:
   path: /assets/img/exception.png
   alt: try catch image
